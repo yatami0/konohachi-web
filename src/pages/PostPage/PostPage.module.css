@@ -1,0 +1,36 @@
+.article {
+  max-width: 100%;
+}
+
+.header {
+  margin-bottom: var(--spacing-2xl);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.date {
+  display: block;
+  margin-top: var(--spacing-md);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+.notFound {
+  text-align: center;
+  padding: var(--spacing-3xl) 0;
+}
+
+.notFoundMessage {
+  margin-top: var(--spacing-md);
+  color: var(--color-text-secondary);
+}
+
+.backLink {
+  display: inline-block;
+  margin-top: var(--spacing-xl);
+  color: var(--color-link);
+}
+
+.backLink:hover {
+  color: var(--color-link-hover);
+}
