@@ -1,6 +1,6 @@
 ---
-title: 'Hello World'
-date: '2024-01-20'
+title: 'テンプレート'
+date: '2025-01-19'
 excerpt: 'konohachi.comの最初の記事です。'
 ---
 
